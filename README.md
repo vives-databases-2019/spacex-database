@@ -260,6 +260,26 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
+21. What is the average payload mass that each manufacturer has launched in 2017?
+
+```sql
+
+```
+
+```text
+
+```
+
+22. In how many flights was the 'Falcon 9' rocket used?
+
+```sql
+
+```
+
+```text
+
+```
+
 ## Report
 
 When you are ready and submitted the exercise, make sure to fill in the [report](./REPORT.md) file. Don't forget to commit it as well. Answer all questions and check the formatting by viewing the file on GitHub.
