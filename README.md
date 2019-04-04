@@ -100,6 +100,45 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
+5. How many launches have a description?
+
+```sql
+
+```
+
+```text
+
+```
+
+6. What are the different core serial numbers that have been used in launches? (no duplicates!)
+
+```sql
+
+```
+
+```text
+
+```
+
+7. What are the amount of launches per year (for every year)
+
+```sql
+
+```
+
+```text
+
+```
+
+8. What 'Iridium' missions where launched? (using only launches table)
+
+```sql
+
+```
+
+```text
+
+```
 
 ## Report
 
