@@ -100,7 +100,7 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
-5. How many launches have a description?
+5. How many launches have details?
 
 ```sql
 
