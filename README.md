@@ -220,6 +220,46 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
+17. What is the heaviest payload that is launched in a 'LEO' orbit
+
+```sql
+
+```
+
+```text
+
+```
+
+18. What are the payload manufacturers that lost there payload due to a failed launch?
+
+```sql
+
+```
+
+```text
+
+```
+
+19. What is the amount of payload mass that each nationality has launched?
+
+```sql
+
+```
+
+```text
+
+```
+
+20. What is the amount of payload mass that each nationality has launched in the year 2018?
+
+```sql
+
+```
+
+```text
+
+```
+
 ## Report
 
 When you are ready and submitted the exercise, make sure to fill in the [report](./REPORT.md) file. Don't forget to commit it as well. Answer all questions and check the formatting by viewing the file on GitHub.
