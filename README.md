@@ -130,7 +130,7 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
-8. What 'Iridium' missions where launched? (using only launches table)
+8. What 'Iridium' missions (name) where launched? (using only launches table)
 
 ```sql
 
@@ -139,6 +139,18 @@ This will add or update the exercise.md file and its dependencies in your own pr
 ```text
 
 ```
+
+9. What mission failed after 150 seconds?
+
+```sql
+
+```
+
+```text
+
+```
+
+
 
 ## Report
 
