@@ -130,7 +130,7 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
-8. What 'Iridium' missions (name) where launched? (using only launches table)
+8. What 'Iridium' missions (name) were launched? (using only launches table)
 
 ```sql
 
@@ -150,7 +150,75 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
+10. What is the amount of water landings for every status value?
 
+```sql
+
+```
+
+```text
+
+```
+
+11. What are the core serial number that landed on water?
+
+```sql
+
+```
+
+```text
+
+```
+
+12. What are the names of the missions that landed on water?
+
+```sql
+
+```
+
+```text
+
+```
+
+13. How many missions landed on land (not water) in 2018?
+
+```sql
+
+```
+
+```text
+
+```
+
+14. What are the mission names (with the mission year) that failed to land on water?
+
+```sql
+
+```
+
+```text
+
+```
+
+15. What is the average payload weight?
+
+```sql
+
+```
+
+```text
+
+```
+
+16. What is the average payload weight of 'SES' missions? (note: customers is an string contianing a list...)
+
+```sql
+
+```
+
+```text
+
+```
 
 ## Report
 
