@@ -62,9 +62,9 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 1. Amount of launches
 
-´´´sql
+```sql
 
-´´´
+```
 
 ```text
 
@@ -72,9 +72,9 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 2. Amount of upcoming launches
 
-´´´sql
+```sql
 
-´´´
+```
 
 ```text
 
@@ -82,9 +82,9 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 3. Amount of past launches
 
-´´´sql
+```sql
 
-´´´
+```
 
 ```text
 
@@ -92,23 +92,14 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 4. Amount of successful launches
 
-´´´sql
+```sql
 
-´´´
+```
 
 ```text
 
 ```
 
-5. Amount of successful past launches
-
-´´´sql
-
-´´´
-
-```text
-
-```
 
 ## Report
 
