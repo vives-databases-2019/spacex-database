@@ -280,6 +280,26 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
+23. When was the first time that a core landed on water?
+
+```sql
+
+```
+
+```text
+
+```
+
+24. How many launches have taken place on any launchpad, give the name of those launchpads and their status?
+
+```sql
+
+```
+
+```text
+
+```
+
 ## Report
 
 When you are ready and submitted the exercise, make sure to fill in the [report](./REPORT.md) file. Don't forget to commit it as well. Answer all questions and check the formatting by viewing the file on GitHub.
