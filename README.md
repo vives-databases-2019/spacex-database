@@ -280,7 +280,7 @@ This will add or update the exercise.md file and its dependencies in your own pr
 
 ```
 
-23. When was the first time that a core landed on water?
+23. When was the first time that a core landed on water? (exclude empty dates)
 
 ```sql
 
@@ -291,6 +291,16 @@ This will add or update the exercise.md file and its dependencies in your own pr
 ```
 
 24. How many launches have taken place on any launchpad, give the name of those launchpads and their status?
+
+```sql
+
+```
+
+```text
+
+```
+
+25. What is the mass of the heaviest payload that was (or will be) launched using 'raptor' engines?
 
 ```sql
 
