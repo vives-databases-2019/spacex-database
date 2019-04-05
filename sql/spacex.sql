@@ -5,7 +5,7 @@ create database spacex;
 use spacex;
 
 create table launchpads (
-  id int AUTO_INCREMENT,
+  id char(255) NOT NULL,
   name tinytext,
   status tinytext,
   location tinytext,
@@ -32,7 +32,7 @@ create table capsules(
 );
 
 create table rockets(
-  id int auto_increment,
+  id char(255) NOT NULL,
   active boolean,
   stages int,
   booster tinytext,
@@ -78,8 +78,8 @@ create table launches(
   timestamp timestamp,
   is_tentative boolean,
   tbd boolean,
-  rocket_id int,
-  launchpad_id int, 
+  rocket_id char(255),
+  launchpad_id char(255), 
   details text,
   success boolean,
   capsule_serial char(255),
